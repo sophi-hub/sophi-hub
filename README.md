@@ -2,7 +2,7 @@
 
 > "Talk is cheap. Show me the code." – Linus Torvalds
 
-Sou uma desenvolvedora web com experiência prática há 3 anos, criando soluções que impactam positivamente as pessoas. Meu foco é construir aplicações responsivas, acessíveis e escaláveis. Amo aprender e compartilhar conhecimento!
+Sou apaixonada por tecnologia, livros e aprendizado contínuo. Desde pequena, minha curiosidade me impulsiona a explorar novos universos e descobrir algo novo todos os dias. Acredito que a vida é uma jornada de descobertas e que o conhecimento é um dos maiores tesouros que podemos acumular. Sempre busco enxergar o lado positivo das coisas, porque, como diz Frank Sinatra, "The life can be so sweet on the sunny side of the street."
 
 ## 🚀 Tecnologias que domino:
 
@@ -132,7 +132,7 @@ Sou uma desenvolvedora web com experiência prática há 3 anos, criando soluç�
 ## 🎵 Curiosidades
 
 🔹 Sou apaixonada por música e toco **piano/órgão**  
-🔹 Adoro ler! (Atualmente lendo: *Of Blood and Roses*)  
+🔹 Atualmente lendo: *Of Blood and Roses*
 🔹 Amo assistir **filmes e séries em inglês** (Atualmente vendo *Gilmore Girls*)  
 🔹 Adoro conversar e conhecer novos lugares  
 
