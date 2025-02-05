@@ -1,8 +1,14 @@
+[![Switch to Portuguese](https://img.shields.io/badge/Switch_to-Portuguese-800080?style=for-the-badge)](https://github.com/sophi-hub/sophi-hub/blob/main/README.md)
+
+---
+
 # 💜 Hello, welcome!
 
 > "Talk is cheap. Show me the code." – Linus Torvalds
 
 I am passionate about technology, books, and continuous learning. Since childhood, my curiosity has driven me to explore new worlds and discover something new every day. I believe that life is a journey of discovery and that knowledge is one of the greatest treasures we can accumulate. I always strive to see the positive side of things because, as Frank Sinatra says, "The life can be so sweet on the sunny side of the street."
+
+---
 
 ## 🚀 Technologies I master:
 
@@ -136,10 +142,6 @@ I am passionate about technology, books, and continuous learning. Since childhoo
 🔹 I love chatting and discovering new places  
 
 ---
-
-## 🌎 Switch language
-
-[![Switch to Portuguese](https://img.shields.io/badge/Switch_to-Portuguese-800080?style=for-the-badge)](https://github.com/sophi-hub/sophi-hub/blob/main/README.md)
 
 💜 Thank you for visiting my profile! Connect with me! 🚀
 
