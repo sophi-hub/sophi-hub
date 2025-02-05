@@ -139,7 +139,7 @@ I am a web developer with 3 years of hands-on experience, creating solutions tha
 
 ## 🌎 Switch language
 
-[![Switch to Portuguese](https://img.shields.io/badge/Switch_to-Portuguese-800080?style=for-the-badge)](link_to_portuguese_version)
+[![Switch to Portuguese](https://img.shields.io/badge/Switch_to-Portuguese-800080?style=for-the-badge)](https://github.com/sophi-hub/sophi-hub/blob/main/README.md)
 
 💜 Thank you for visiting my profile! Connect with me! 🚀
 
