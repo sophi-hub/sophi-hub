@@ -1,12 +1,12 @@
+[![Switch to English](https://img.shields.io/badge/Switch_to-English-800080?style=for-the-badge)](https://github.com/sophi-hub/sophi-hub/blob/main/README-EN.md)
+
+---
+
 # 💜 Olá, seja bem-vindo!
 
 > "Talk is cheap. Show me the code." – Linus Torvalds
 
 Sou apaixonada por tecnologia, livros e aprendizado contínuo. Desde pequena, minha curiosidade me impulsiona a explorar novos universos e descobrir algo novo todos os dias. Acredito que a vida é uma jornada de descobertas e que o conhecimento é um dos maiores tesouros que podemos acumular. Sempre busco enxergar o lado positivo das coisas, porque, como diz Frank Sinatra, "The life can be so sweet on the sunny side of the street."
-
----
-
-[![Switch to English](https://img.shields.io/badge/Switch_to-English-800080?style=for-the-badge)](https://github.com/sophi-hub/sophi-hub/blob/main/README-EN.md)
 
 ---
 
