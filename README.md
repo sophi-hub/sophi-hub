@@ -1,3 +1,6 @@
+
+[![Switch to English](https://img.shields.io/badge/Switch_to-English-800080?style=for-the-badge)](https://github.com/sophi-hub/sophi-hub/blob/main/README-EN.md)
+
 # 💜 Olá, seja bem-vindo!
 
 > "Talk is cheap. Show me the code." – Linus Torvalds
@@ -137,10 +140,6 @@ Sou apaixonada por tecnologia, livros e aprendizado contínuo. Desde pequena, mi
 🔹 Adoro conversar e conhecer novos lugares  
 
 ---
-
-## 🌎 Trocar idioma
-
-[![Switch to English](https://img.shields.io/badge/Switch_to-English-800080?style=for-the-badge)](https://github.com/sophi-hub/sophi-hub/blob/main/README-EN.md)
 
 💜 Obrigado por visitar meu perfil! Se conecte comigo! 🚀
 
