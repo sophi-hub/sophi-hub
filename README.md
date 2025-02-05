@@ -140,7 +140,7 @@ Sou uma desenvolvedora web com experiência prática há 3 anos, criando soluç�
 
 ## 🌎 Trocar idioma
 
-[![Switch to English](https://img.shields.io/badge/Switch_to-English-800080?style=for-the-badge)](https://github.com/sophi-hub/sophi-hub/edit/main/README-EN.md)
+[![Switch to English](https://img.shields.io/badge/Switch_to-English-800080?style=for-the-badge)](https://github.com/sophi-hub/sophi-hub/blob/main/README-EN.md)
 
 💜 Obrigado por visitar meu perfil! Se conecte comigo! 🚀
 
