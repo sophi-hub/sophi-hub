@@ -148,6 +148,5 @@ Sou apaixonada por tecnologia, livros e aprendizado contínuo. Desde pequena, mi
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sophia-alexandra-567502344/?originalSubdomain=br) 
 
----
 
 
