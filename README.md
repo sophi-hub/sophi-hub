@@ -32,6 +32,10 @@ Sou uma desenvolvedora web com experiência prática há 3 anos, criando soluç�
 <img src="https://skillicons.dev/icons?i=github" width="65px" alt="GitHub" /><br/>
 <b>GitHub</b>
 </td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br/>
+<b>Sass</b>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -51,6 +55,9 @@ Sou uma desenvolvedora web com experiência prática há 3 anos, criando soluç�
 </td>
 <td align="center">
 <b>Clever Cloud</b>
+</td>
+<td align="center">
+<b>Bootstrap</b>
 </td>
 </tr>
 </table>
@@ -103,7 +110,7 @@ Sou uma desenvolvedora web com experiência prática há 3 anos, criando soluç�
 - 📚 **Curso Graduação - Bacharelado em Ciência da Computação pelo Centro Universitário de Serviço Nacional de Aprendizagem Comercial (Senac)**
   <details>
     <summary>Status da Faculdade</summary>
-      - Primeiro semestre no início de 2025
+      - Primeiro semestre no início de 2025, noturno
   </details>
 
 - 🚀 **Bootcamp Santander - DIO** (JavaScript, Angular, Java, Bancos de Dados, APIs REST)
