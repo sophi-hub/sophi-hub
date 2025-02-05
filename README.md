@@ -93,24 +93,24 @@ Sou uma desenvolvedora com experiência prática em desenvolvimento web há 3 an
 
 ## 🎓 Meus estudos:
 
-- 🎓 **Curso em Informática para Internet pelo Instituto Ténico de Barueri (ITB) - Brasílio Flores de Azevedo**
+- 🎓 **Curso em Informática para Internet pelo Instituto Técnico de Barueri (ITB) - Brasílio Flores de Azevedo**
   <details>
     <summary>Status do Curso</summary>
       - Iniciado em 02/2022 e concluído em 12/2024
-    </details>
+  </details>
 
 
 - 📚 **Curso Graduação - Bacharelado em Ciência da Computação pelo Centro Universitário de Serviço Nacional de Aprendizagem Comercial (Senac)**
   <details>
     <summary>Status da Faculdade</summary>
       - Primeiro semestre no início de 2025
-    </details>
+  </details>
 
 - 🚀 **Bootcamp Santander - DIO** (JavaScript, Angular, Java, Bancos de Dados, APIs REST)
   <details>
     <summary>Status do Bootcamp</summary>
       - Em andamento, previsto para término em 03/2025
-    </details>
+  </details>
 
 - 📖 **Cursos na Alura**
   - CSS: dispondo elementos com Flexbox e Grid
@@ -118,7 +118,7 @@ Sou uma desenvolvedora com experiência prática em desenvolvimento web há 3 an
   - SQLite online: conhecendo instruções SQL
   - JavaScript: Programação Orientada a Objetos
   - (E mais 18 cursos de front-end e back-end!)
-- **Fluente em Inglês** – Formada pela escola CCAA após 5.5 anos de estudo
+- **Fluente em Inglês** – Formada pelo Centro de Cultura Anglo Americana (CCAA) após 5.5 anos de estudo
 
 ---
 
