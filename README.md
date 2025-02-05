@@ -2,7 +2,7 @@
 
 > "Talk is cheap. Show me the code." – Linus Torvalds
 
-Sou uma desenvolvedora com experiência prática em desenvolvimento web há 3 anos, criando soluções que impactam positivamente as pessoas. Meu foco é construir aplicações responsivas, acessíveis e escaláve. Amo aprender e compartilhar conhecimento!
+Sou uma desenvolvedora web com experiência prática há 3 anos, criando soluções que impactam positivamente as pessoas. Meu foco é construir aplicações responsivas, acessíveis e escaláve. Amo aprender e compartilhar conhecimento!
 
 ## 🚀 Tecnologias que domino:
 
