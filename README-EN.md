@@ -2,7 +2,7 @@
 
 > "Talk is cheap. Show me the code." – Linus Torvalds
 
-I am a web developer with 3 years of hands-on experience, creating solutions that positively impact people. My focus is on building responsive, accessible, and scalable applications. I love learning and sharing knowledge!
+I am passionate about technology, books, and continuous learning. Since childhood, my curiosity has driven me to explore new worlds and discover something new every day. I believe that life is a journey of discovery and that knowledge is one of the greatest treasures we can accumulate. I always strive to see the positive side of things because, as Frank Sinatra says, "The life can be so sweet on the sunny side of the street."
 
 ## 🚀 Technologies I master:
 
@@ -131,7 +131,7 @@ I am a web developer with 3 years of hands-on experience, creating solutions tha
 ## 🎵 Fun Facts
 
 🔹 I am passionate about music and play **piano/organ**  
-🔹 I love reading! (Currently reading: *Of Blood and Roses*)  
+🔹 Currently reading: *Of Blood and Roses*   
 🔹 I enjoy watching **movies and series in English** (Currently watching *Gilmore Girls*)  
 🔹 I love chatting and discovering new places  
 
