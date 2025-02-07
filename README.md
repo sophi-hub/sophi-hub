@@ -116,7 +116,7 @@ Sou apaixonada por tecnologia, livros e aprendizado contínuo. Desde pequena, mi
 - 📚 **Curso Graduação - Bacharelado em Ciência da Computação pelo Centro Universitário de Serviço Nacional de Aprendizagem Comercial (Senac)**
   <details>
     <summary>Status da Faculdade</summary>
-      - Primeiro semestre no início de 2025, noturno
+      - Primeiro semestre em 2025, noturno
   </details>
 
 - 🚀 **Bootcamp Santander - DIO** (JavaScript, Angular, Java, Bancos de Dados, APIs REST)
