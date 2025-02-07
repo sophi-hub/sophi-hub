@@ -115,7 +115,7 @@ I am passionate about technology, books, and continuous learning. Since childhoo
 - 📚 **Bachelor's Degree in Computer Science at Centro Universitário de Serviço Nacional de Aprendizagem Comercial (Senac)**
   <details>
     <summary>University Status</summary>
-      - First semester starting in early 2025, evening classes
+      - First semester starting in 2025, evening classes
   </details>
 
 - 🚀 **Santander Bootcamp - DIO** (JavaScript, Angular, Java, Databases, REST APIs)
