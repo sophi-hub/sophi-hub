@@ -118,6 +118,14 @@ I am passionate about technology, books, and continuous learning. Since childhoo
       - First semester starting in 2025, evening classes
   </details>
 
+
+- 📚 **Bachelor's Degree in Software Engineering at Centro Universitário Cesumar (UniCesumar)**
+  <details>
+    <summary>University Status</summary>
+      - Distance learning, in progress
+  </details>
+
+
 - 🚀 **Santander Bootcamp - DIO** (JavaScript, Angular, Java, Databases, REST APIs)
   <details>
     <summary>Bootcamp Status</summary>
