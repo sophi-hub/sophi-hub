@@ -119,11 +119,13 @@ Sou apaixonada por tecnologia, livros e aprendizado contínuo. Desde pequena, mi
       - Primeiro semestre em 2025, noturno
   </details>
 
-  - 📚 **Curso Graduação - Bacharelado em Engenharia de Software pelo Centro Universitário Cesumar (UniCesumar)**
+
+- 📚 **Curso Graduação - Bacharelado em Engenharia de Software pelo Centro Universitário Cesumar (UniCesumar)**
   <details>
     <summary>Status da Faculdade</summary>
       - Ensino a distância, em andamento
   </details>
+
 
 - 🚀 **Bootcamp Santander - DIO** (JavaScript, Angular, Java, Bancos de Dados, APIs REST)
   <details>
