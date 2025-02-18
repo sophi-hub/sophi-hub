@@ -95,7 +95,7 @@ Sou apaixonada por tecnologia, livros e aprendizado contínuo. Desde pequena, mi
 | **BEM e DOM** | Estratégia de nomenclatura CSS para melhor manutenção do código. |
 | **DOM (JavaScript)** | Manipulação da estrutura HTML através do JavaScript. |
 | **Mobile First** | Desenvolvimento voltado para dispositivos móveis. |
-| **POO** | Programação Orientada a Objetos para melhor reutilização e organização do código. |
+| **OOP** | Programação Orientada a Objetos para melhor reutilização e organização do código. |
 | **UX/UI Design** | Foco na experiência do usuário para aplicações acessíveis e intuitivas. |
 | **Acessibilidade** | Implementação de boas práticas para tornar aplicações acessíveis. |
 | **CRUD** | Operações fundamentais em bancos de dados: Create, Read, Update, Delete. |
