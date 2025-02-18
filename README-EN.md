@@ -92,7 +92,7 @@ I am passionate about technology, books, and continuous learning. Since childhoo
 | Concept | Description |
 |----------|-------------|
 | **MVC Architecture** | Separation of the application into Model, View, and Controller for better organization. |
-| **BEM and DOM Architecture** | CSS naming strategy for better code maintainability. |
+| **BEM and DOM** | CSS naming strategy for better code maintainability. |
 | **DOM (JavaScript)** | Manipulation of the HTML structure through JavaScript. |
 | **Mobile First** | Development focused on mobile devices. |
 | **OOP** | Object-Oriented Programming for better code reuse and organization. |
