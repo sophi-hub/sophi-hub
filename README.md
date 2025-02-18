@@ -92,7 +92,7 @@ Sou apaixonada por tecnologia, livros e aprendizado contínuo. Desde pequena, mi
 | Conceito | Descrição |
 |----------|-------------|
 | **Arquitetura MVC** | Separação da aplicação em Model, View e Controller para melhor organização. |
-| **Arquitetura BEM e DOM** | Estratégia de nomenclatura CSS para melhor manutenção do código. |
+| **BEM e DOM** | Estratégia de nomenclatura CSS para melhor manutenção do código. |
 | **DOM (JavaScript)** | Manipulação da estrutura HTML através do JavaScript. |
 | **Mobile First** | Desenvolvimento voltado para dispositivos móveis. |
 | **POO** | Programação Orientada a Objetos para melhor reutilização e organização do código. |
