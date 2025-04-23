@@ -42,6 +42,10 @@ I am passionate about technology, books, and continuous learning. Since childhoo
 <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br/>
 <b>Sass</b>
 </td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="65px" alt="React" /><br/>
+<b>React</b>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -77,10 +81,6 @@ I am passionate about technology, books, and continuous learning. Since childhoo
 <b>Angular</b>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="65px" alt="React" /><br/>
-<b>React</b>
-</td>
-<td align="center">
 <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind" /><br/>
 <b>Tailwind</b>
 </td>
@@ -112,7 +112,7 @@ I am passionate about technology, books, and continuous learning. Since childhoo
       - Started in 02/2022 and completed in 12/2024
   </details>
 
-- 📚 **Bachelor's Degree in Computer Science at Centro Universitário de Serviço Nacional de Aprendizagem Comercial (Senac)**
+- 📚 **Bachelor's degree in Science and Technology and a Bachelor's degree in Computer Science at the Federal University of ABC (UFABC)**
   <details>
     <summary>University Status</summary>
       - First semester starting in 2025, evening classes
@@ -129,7 +129,7 @@ I am passionate about technology, books, and continuous learning. Since childhoo
 - 🚀 **Santander Bootcamp - DIO** (JavaScript, Angular, Java, Databases, REST APIs)
   <details>
     <summary>Bootcamp Status</summary>
-      - In progress, expected completion by 03/2025
+      - In progress, expected completion by 06/2025
   </details>
 
 - 📖 **Courses on Alura**
