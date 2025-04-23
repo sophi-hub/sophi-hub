@@ -146,7 +146,7 @@ Sou apaixonada por tecnologia, livros e aprendizado contínuo. Desde pequena, mi
 ## 🎵 Curiosidades
 
 🔹 Sou apaixonada por música e toco **piano/órgão**  
-🔹 Atualmente lendo: *E.V.A*  
+🔹 Atualmente lendo: *E.V.A.*  
 🔹 Amo assistir **filmes e séries em inglês** (Atualmente vendo *Gilmore Girls*)  
 🔹 Adoro conversar e conhecer novos lugares  
 
