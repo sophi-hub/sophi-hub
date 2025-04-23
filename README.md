@@ -42,6 +42,10 @@ Sou apaixonada por tecnologia, livros e aprendizado contínuo. Desde pequena, mi
 <img src="https://skillicons.dev/icons?i=sass" width="65px" alt="Sass icon"/><br/>
 <b>Sass</b>
 </td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="65px" alt="React" /><br/>
+<b>React</b>
+</td>
 </tr>
 <tr>
 <td align="center">
@@ -75,10 +79,6 @@ Sou apaixonada por tecnologia, livros e aprendizado contínuo. Desde pequena, mi
 <td align="center">
 <img src="https://skillicons.dev/icons?i=angular" width="65px" alt="Angular" /><br/>
 <b>Angular</b>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="65px" alt="React" /><br/>
-<b>React</b>
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=tailwind" width="65px" alt="Tailwind" /><br/>
@@ -130,7 +130,7 @@ Sou apaixonada por tecnologia, livros e aprendizado contínuo. Desde pequena, mi
 - 🚀 **Bootcamp Santander - DIO** (JavaScript, Angular, Java, Bancos de Dados, APIs REST)
   <details>
     <summary>Status do Bootcamp</summary>
-      - Em andamento, previsto para término em 03/2025
+      - Em andamento, previsto para término em 06/2025
   </details>
 
 - 📖 **Cursos na Alura**
