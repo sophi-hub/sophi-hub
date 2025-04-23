@@ -113,7 +113,7 @@ Sou apaixonada por tecnologia, livros e aprendizado contínuo. Desde pequena, mi
   </details>
 
 
-- 📚 **Curso Graduação - Bacharelado em Ciência da Computação pelo Centro Universitário de Serviço Nacional de Aprendizagem Comercial (Senac)**
+- 📚 **Curso Graduação - Bacharelado Interdisciplinar em Ciência e Tecnologia e Bacharelado em Ciência da Computação pela Fundação Universidade Federal do ABC (UFABC)**
   <details>
     <summary>Status da Faculdade</summary>
       - Primeiro semestre em 2025, noturno
